@@ -1,0 +1,7 @@
+[['Chettipuniyam', '55'], ['Kazhipattur', '55'], ['Kaaranai', '3199'], ['Vengal', '3324'], ['Valarpuram', '3437'], ['Sholinganallur', '16432'], ['Tiruvottiyur', '19576'], ['Thiruporur', '20591'], ['Mahabalipuram', '25958'], ['Chembarambakkam', '25988'], ['Mudichur', '31499'], ['Nandambakkam', '38687'], ['Thoraipakkam', '43711'], ['Thoraipakkam', '43711'], ['Adyar', '66061'], ['Korattur', '78826'], ['Royapettah', '94790'], ['Royapuram', '96472'], ['Gopalapuram', '130046'], ['Chetpet', '132909']]
+
+
+[[['Chetpet', 'Royapuram', 'Mahabalipuram', 'Gopalapuram', 'Royapettah'], '3294'], [['Chetpet', 'Thoraipakkam', 'Adyar', 'Sholinganallur', 'Thoraipakkam'], '4413'], [['Chetpet', 'Chettipuniyam', 'Chembarambakkam', 'Nandambakkam', 'Mudichur'], '7753'], [['Chetpet', 'Vengal', 'Kazhipattur', 'Kaaranai', 'Thiruporur'], '13385']]
+
+
+[[['Chetpet', 'Royapuram', 'Mahabalipuram', 'Gopalapuram', 'Royapettah'], 3277.0438870002517], [['Chetpet', 'Thoraipakkam', 'Adyar', 'Sholinganallur', 'Thoraipakkam'], 2066.678894230154], [['Chetpet', 'Chettipuniyam', 'Chembarambakkam', 'Nandambakkam', 'Mudichur'], 1563.7950375997577], [['Chetpet', 'Vengal', 'Kazhipattur', 'Kaaranai', 'Thiruporur'], 1092.4821811698366]]
